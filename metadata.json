@@ -1,0 +1,6 @@
+{
+  "name": "Hyderabad Metro",
+  "description": "A high-fidelity ticket booking and live schedule application for Hyderabad Metro with AI chat assistant, voice control, multi-language support (English, Telugu, Hindi), audio alerts, and secure simulated payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
